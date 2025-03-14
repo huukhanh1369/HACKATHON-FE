@@ -14,12 +14,14 @@ body {
 
 .left {
     font-size: 18px;
+    margin-right: 30px;
 }
 
 .right {
     display: flex;
     margin-left: auto;
     align-items: center;
+    padding-right: 60px;
 }
 
 .right span {
@@ -114,6 +116,7 @@ input[type="button"] {
     font-family: Poppins;
     line-height: 100%;
     letter-spacing: 0;
+    margin-top: 10px;
 }
 
 .title2 {
