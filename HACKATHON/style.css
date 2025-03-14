@@ -116,7 +116,8 @@ input[type="button"] {
     font-family: Poppins;
     line-height: 100%;
     letter-spacing: 0;
-    margin-top: 10px;
+    padding-top: 10px;
+    color: #36009D;
 }
 
 .title2 {
